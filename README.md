@@ -1,1 +1,1 @@
-# Discord.JS v13 with Language system
+# Discord.js v13 with Language system
