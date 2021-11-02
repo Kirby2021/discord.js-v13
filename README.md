@@ -1,6 +1,7 @@
 # Discord.js v13 with Language system
 Yes, this is a Discord.js with a language system. Currently only support 2 languages `(Indonesia & English)`,
-but you can add the language anytime/anywhere wherever you want.
+but you can add the language anytime/anywhere wherever you want. And its already have a **Set-language** Command,
+so if you already have the mongodb uri and want to try to change the language to Indonesia/Language, you can do that! Enjoy!!
 
 # Requirements
 - [Node.js ^16.x](https://nodejs.org/en/)
