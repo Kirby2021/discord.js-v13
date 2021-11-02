@@ -1,0 +1,21 @@
+{
+	"client": {
+		"token": "YOUR_BOT_TOKEN",
+		"prefix": "YOUR_BOT_PREFIX",
+		"owners": ["YOUR_OWNER_ID"]
+	},
+	"apiToken": {
+		"alexFlipNote": "YOU_CAN_GET_IN_https://api.alexflipnote.dev/"
+	},
+	"defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL"],
+	"color": {
+		"invis": "#2F3136"
+	},
+	"links": {
+		"botInvite": "YOUR_BOT_INVITE_LINK",
+		"supportInvite": "YOUR_SUPPORT_SERVER_LINK"
+	},
+	"database": {
+		"mongoURI": "MONGODB_URI"
+	}
+}

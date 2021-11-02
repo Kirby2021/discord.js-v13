@@ -1,0 +1,12 @@
+{
+	"PREFIX_DESCRIPTION": "Prefix ku untuk server ini adalah `{{PREFIX}}`",
+	"PREFIX_AUTHOR": "Halo, {{USER}}",
+
+	"COMMAND_OWNERONLY": "Maaf, perintah ini dapat bekerja hanya untuk pemilik Bot saja!",
+	"COMMAND_GUILDONLY": "Maaf, perintah ini dapat bekerja di Discord Server!",
+	"COMMAND_DISABLED": "Maaf, perintah ini sementara tidak dapat digunakan, mohon untuk cek Support Server kami untuk info lebih lanjut",
+	"COMMAND_NSFW": "Maaf, perintah ini dapat bekerja di channel yang bertanda NSFW!",
+	"COMMAND_ARGS": "Maaf, penggunaan perintah salah! {{USAGE}}\nCatatan: *[] = Opsional, <> = Dibutuhkan!*",
+	"COMMAND_USERPERMCHECK": "Maaf, kamu perlu izin `{{PERMS}}` untuk menjalankan perintah ini!",
+	"COMMAND_BOTPERMCHECK": "Maaf, aku butuh izin `{{PERMS}}` untuk menjalankan perintah ini!"
+}

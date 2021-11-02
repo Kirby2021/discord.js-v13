@@ -1,0 +1,12 @@
+{
+	"PREFIX_DESCRIPTION": "My prefix for this server are `{{PREFIX}}`",
+	"PREFIX_AUTHOR": "Hi, {{USER}}",
+
+	"COMMAND_OWNERONLY": "Sorry, this command only works for the Bot Owners only!",
+	"COMMAND_GUILDONLY": "Sorry, this command only works in Discord Server!",
+	"COMMAND_DISABLED": "Sorry, this command is temporarily disabled, Please check out our Support Server until further notice",
+	"COMMAND_NSFW": "Sorry, this command only works in NSFW channel!",
+	"COMMAND_ARGS": "Sorry, incorrect usage {{USAGE}}\nNote: *[] = Optional, <> = Required!*",
+	"COMMAND_USERPERMCHECK": "Sorry, you need `{{PERMS}}` permission{{GRAMMAR}} to do this command!",
+	"COMMAND_BOTPERMCHECK": "Sorry, but i need `{{PERMS}}` permission{{GRAMMAR}} to do this command!"
+}

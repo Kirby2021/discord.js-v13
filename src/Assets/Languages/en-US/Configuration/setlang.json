@@ -1,0 +1,5 @@
+{
+	"LANGUAGE_CHANGED": "Successfully changed the language. Language has been set to **{{LANGUAGE}}**!",
+	"LANGUAGE_NOTFOUND": "No language found matched with that criteria!\n\nAvailable language: {{LANGUAGE}}",
+	"LANGUAGE_NODATABASE": "No database found for this Server, please run the command again!"
+}

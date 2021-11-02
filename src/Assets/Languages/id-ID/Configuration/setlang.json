@@ -1,0 +1,5 @@
+{
+	"LANGUAGE_CHANGED": "Sukses mengganti bahasa. Bahasa server ini sekarang adalah **{{LANGUAGE}}**!",
+	"LANGUAGE_NOTFOUND": "Tidak dapat menemukan bahasa yang memenuhi kriteria!\n\nBahasa yang tersedia: {{LANGUAGE}}",
+	"LANGUAGE_NODATABASE": "Tidak dapat menemukan database untuk server ini, mohon untuk menjalankan ulang perintah ini!"
+}
