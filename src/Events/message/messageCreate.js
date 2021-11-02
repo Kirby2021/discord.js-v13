@@ -74,7 +74,7 @@ module.exports = class extends Event {
 		// Components
 		const commandDisabledComp = new MessageActionRow().addComponents(
 			new MessageButton()
-				.setURL('https://www.youtube.com')
+				.setURL('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 				.setStyle('LINK')
 				.setLabel('Click Here!'),
 		);
